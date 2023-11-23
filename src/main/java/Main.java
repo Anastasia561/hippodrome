@@ -3,7 +3,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 
-    public static void main(String[] args) throws Exception {
+    public static void main() throws Exception {
         List<Horse> horses = List.of(
                 new Horse("Bucephalus", 2.4),
                 new Horse("Ace of Spades", 2.5),
