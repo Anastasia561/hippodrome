@@ -1,0 +1,7 @@
+2023-11-26 16:28:58,170 DEBUG main : Horse creation, name[Blaze], speed[2.7]
+2023-11-26 16:28:58,219 DEBUG main : Horse creation, name[Lobster], speed[2.8]
+2023-11-26 16:28:58,219 DEBUG main : Horse creation, name[Pegasus], speed[2.9]
+2023-11-26 16:28:58,220 DEBUG main : Horse creation, name[Cherry], speed[3.0]
+2023-11-26 16:28:58,221 DEBUG main : Hippodrome creation, number of horses [7]
+2023-11-26 16:28:58,222 INFO main : Start of the race. Number of participants: 7
+2023-11-26 16:29:18,774 INFO main : End of the race. Winner: Cherry
